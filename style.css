@@ -286,7 +286,7 @@ body{
 .p-box {
     position: absolute;
     text-align: center;
-    top: 48%;
+    top: -10%;
     left: 15px;
     right: 15px;
     line-height: 25px;
